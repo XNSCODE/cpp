@@ -4,7 +4,7 @@ Hii, bagaimana cara encrypt c++ menggunakan cython? kamu hanya perlu menginstall
 
 setelah kalian install module cython kamu install script nya dulu dengan mengetik:
 ```python
-$ pkg install python2 git
+$ pkg install python git
 $ pip install cython
 $ git clone https://github.com/XNSCODE/cpp
 $ cd $HOME/cpp
